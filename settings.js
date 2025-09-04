@@ -6,10 +6,10 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "VISPER-MD&GkAi2ZpS#Ha2jIplgAYRj12CWOnpWyTU6DF9uI04mSWWKzjndReQ",
+    SESSION_ID: process.env.SESSION_ID || "VISPER-MD&ywQmGIIY#S68EFhlzNHOY0AsuJgRnuWkuiZphXR7Yxdb4zQ3VS5k",
     // add your Session Id make sure it starts with VISPER-MD&
 
-    CINESUB_API_KEY: process.env.CINESUB_API_KEY || "e0795fcd-58a9-4c0e-994d-648f146077cb",
+    CINESUB_API_KEY: process.env.CINESUB_API_KEY || "e8cc85d0-2548-4887-aa7d-a0564b380f78",
     // add your manoj Cinesubz api site apikey 
 
     PREFIX: process.env.PREFIX || ".",
